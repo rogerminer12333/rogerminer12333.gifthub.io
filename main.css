@@ -1,0 +1,46 @@
+<style>
+html {background-color: black;}
+
+a.a:link {color: cyan;}
+a.a:visited {color: darkblue;}
+a.a:hover {color: green;}
+a.a:active {color:blue ;}
+
+pre.serif {font-family: "Times New Roman", Times, serif;}
+---
+a.alfa:link {color: cyan;}
+a.alfa:visited {color: red;}
+a.alfa:hover {color: white;}
+a.alfa:active {color: blue;}
+
+a.beta:link {color: cyan;}
+a.beta:visited {color: red;}
+a.beta:hover {color: green;}
+a.beta:active {color: blue;}
+
+a.charly:link {color: cyan;}
+a.charly:visited {color: red;}
+a.charly:hover {color: purple;}
+a.charly:active {color:blue ;}
+
+---
+pre.omega {color:red;}
+pre.delta {color:cyan;}
+
+a.b:link {color: blue;}
+a.b:visited {color: red;}
+a.b:hover {color: green;}
+a.b:active {color: white;}
+---
+a.c:link {color: blue;}
+a.c:visited {color: red;}
+a.c:hover {color: green;}
+a.c:active {color: white;}
+---
+a.d:link {color: blue;}
+a.d:visited {color: red;}
+a.d:hover {color: green;}
+a.d:active {color: white;}
+
+
+</style>
